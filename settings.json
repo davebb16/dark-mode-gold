@@ -1,0 +1,69 @@
+{
+	"workbench.colorCustomizations": {
+		"focusBorder": "#ffd0008f",
+
+		"selection.background": "#ffd00073",
+		"selection.foreground": "ffc400",
+		"panel.border": "#5a5a5a70",
+		"panelTitle.activeBorder": "#ffd000",
+		// styles for the side bar (second from left)
+		"sideBar.border": "#5a5a5a70",
+		// styles for the activity bar (far left)
+		"activityBar.foreground": "#ffffff",
+
+		"activityBar.border": "#5a5a5a70",
+		"activityBar.activeBorder": "#ffd000",
+
+		"activityBarBadge.background": "#ffd000",
+		"activityBarBadge.foreground": "#000000",
+		"editorGroupHeader.border": "#5a5a5a70",
+		"button.background": "#ffd000e7",
+		"button.hoverBackground": "#ffd000",
+
+		"button.foreground": "#000000",
+		"textLink.foreground": "#ffd000",
+		"textLink.activeForeground": "#ffd000",
+
+		"statusBar.background": "#3b3b3b",
+		"statusBar.foreground": "#bdbdbd",
+		"statusBar.border": "#ffd000",
+		"statusBar.noFolderBackground": "#4b4b4b",
+		"statusBar.noFolderBorder": "#bdbdbd",
+		"notificationsInfoIcon.foreground": "#ffd000"
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"workbench.iconTheme": "material-icon-theme",
+	"git.autofetch": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"yaml.schemas": {
+		"file:///Users/davidbillings16/.vscode/extensions/atlassian.atlascode-3.0.0/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+	},
+	"atlascode.bitbucket.enabled": false,
+	"atlascode.jira.jqlList": [
+		{
+			"id": "e6accd92-7d19-4f0f-856f-6081bab5d388",
+			"enabled": true,
+			"name": "My acellus Issues",
+			"query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+			"siteId": "10b7f705-2dcb-4dc6-bbb2-adc942f5c319",
+			"monitor": true
+		}
+	],
+	"atlascode.jira.lastCreateSiteAndProject": {
+		"siteId": "10b7f705-2dcb-4dc6-bbb2-adc942f5c319",
+		"projectKey": "AD"
+	},
+	"git.confirmSync": false,
+	"prettier.printWidth": 185,
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"prettier.configPath": ".prettierrc",
+	"prettier.arrowParens": "avoid",
+	"prettier.jsxSingleQuote": true,
+	"prettier.semi": false,
+	"editor.formatOnSave": true,
+	"javascript.updateImportsOnFileMove.enabled": "always"
+}
