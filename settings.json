@@ -1,35 +1,35 @@
 {
 	"workbench.colorCustomizations": {
-		"focusBorder": "#ffd0008f",
+		"focusBorder": "#ffc4008f",
 
-		"selection.background": "#ffd00073",
+		"selection.background": "#ffc40073",
 		"selection.foreground": "ffc400",
 		"panel.border": "#5a5a5a70",
-		"panelTitle.activeBorder": "#ffd000",
+		"panelTitle.activeBorder": "#ffc400",
 		// styles for the side bar (second from left)
 		"sideBar.border": "#5a5a5a70",
 		// styles for the activity bar (far left)
 		"activityBar.foreground": "#ffffff",
 
 		"activityBar.border": "#5a5a5a70",
-		"activityBar.activeBorder": "#ffd000",
+		"activityBar.activeBorder": "#ffc400",
 
-		"activityBarBadge.background": "#ffd000",
+		"activityBarBadge.background": "#ffc400",
 		"activityBarBadge.foreground": "#000000",
 		"editorGroupHeader.border": "#5a5a5a70",
-		"button.background": "#ffd000e7",
-		"button.hoverBackground": "#ffd000",
+		"button.background": "#ffc400e7",
+		"button.hoverBackground": "#ffc400",
 
 		"button.foreground": "#000000",
-		"textLink.foreground": "#ffd000",
-		"textLink.activeForeground": "#ffd000",
+		"textLink.foreground": "#ffc400",
+		"textLink.activeForeground": "#ffc400",
 
 		"statusBar.background": "#3b3b3b",
 		"statusBar.foreground": "#bdbdbd",
-		"statusBar.border": "#ffd000",
+		"statusBar.border": "#ffc400",
 		"statusBar.noFolderBackground": "#4b4b4b",
 		"statusBar.noFolderBorder": "#bdbdbd",
-		"notificationsInfoIcon.foreground": "#ffd000"
+		"notificationsInfoIcon.foreground": "#ffc400"
 	},
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"workbench.iconTheme": "material-icon-theme",
